@@ -1,0 +1,14 @@
+Package: ProbBinom
+Type: Package
+Title: Probabilidad Binomial
+Version: 0.1.0
+Author: Nancy Magali Maldonado Silva
+Maintainer: The package maintainer <nancymagalimaldonadosilva99@gmial.com>
+Description: La distribución binomial hace referencia a la distribución de probabilidades discretas 
+            en el que se describen la cantidad de éxitos en cuanto a susecos esperimentales que son independientes entre sí, 
+            en relación a una variable de índole aleatoria.
+References:Francisco Javier, M. S. (2020, August 1). Distribución binomial. Economipedia.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
